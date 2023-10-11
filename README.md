@@ -3,7 +3,7 @@ Saseul node check site.
 
 
 
-![스크린샷](https://github.com/ChoRongChoRong-Saseul/NodeChecker/screen.png)
+![스크린샷](https://github.com/ChoRongChoRong-Saseul/NodeChecker/blob/main/screen.png)
 
 
 
