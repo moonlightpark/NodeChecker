@@ -1,0 +1,9 @@
+table thead tr th {
+    background-color: #d3d3d3;
+    border-color: #000;
+	text-align:center;
+}
+table tbody tr td {
+	text-align:center;
+}
+
