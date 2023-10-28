@@ -7,6 +7,22 @@ Saseul node check site.
 
 
 
+# Installation
+
+1. Download slkings_www
+
+2. open config/env.php  // set DB & Encryption Settings 
+
+3. open controller/index.php // domain setting
+
+4. open url www.domain.com/saseul/makeAdminPw 
+
+5. insert db table to tb_employ. your id and makeAdminPw(Here)
+
+
+
+
+
 #### 소득자유 네이버 카페
 
 [소득자유 네이버 카페](https://cafe.naver.com/childishlazyman)

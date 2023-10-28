@@ -12,10 +12,12 @@ define("__ENV_LOG_PFIX__", "web" );
 
 
 define("__ENV_SHOP_INCLUDE_URL__", "/style/shop/");
-define('__ENV_HASH_PWD_KEY__', '암호키를설정하세요');
-define('__ENV_HASH_TOKEN_KEY__', '암호키를설정하세요');
-define('__ENV_CRYPT_IV__', '암호키를설정하세요');   
-define('__ENV_CRYPT_KEY__', '암호키를설정하세요');  
+
+// Encryption Settings
+define('__ENV_HASH_PWD_KEY__', '암호키를설정하세요');   // 어려운 문자 아무거나 입력
+define('__ENV_HASH_TOKEN_KEY__', '암호키를설정하세요'); // 어려운 문자 아무거나 입력
+define('__ENV_CRYPT_IV__', '암호키를설정하세요');       // 어려운 문자 아무거나 입력
+define('__ENV_CRYPT_KEY__', '암호키를설정하세요');      // 어려운 문자 아무거나 입력
 define('__ENV_AUTH_TYPE__', 'session');
 
 define('__ENV_RESPONSE_HEADER_LENGTH__',300);
