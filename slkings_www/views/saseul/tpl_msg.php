@@ -1,0 +1,2 @@
+<?=$this->title?>
+<?=$this->msg?>
