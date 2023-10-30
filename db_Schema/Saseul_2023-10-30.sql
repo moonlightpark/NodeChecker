@@ -49,5 +49,5 @@ CREATE TABLE `tb_employ` (
 
 INSERT INTO `tb_employ` (`emp_id`, `cmp_no`, `emp_pwd`, `pw_changedt`, `emp_nm`, `staff_lev`, `tel_no`, `email_addr`, `ip_addr`, `last_login_tm`, `regist_dt`, `regist_tm`, `regist_id`, `update_dt`, `update_tm`, `update_id`, `status_cd`)
 VALUES
-	('admin','node0001','makeAdminPW 만들어진 pw 값','2020-10/30','초롱초롱','EM001','01040880116','jajangjajang@gmail.com','*',NULL,'2023-10-30','16:45:40','SYSTEM','2023-10-30','01:46:19','master','UM001'),
+	('admin','node0001','makeAdminPW 만들어진 pw 값','2020-10-30','초롱초롱','EM001','01040880116','jajangjajang@gmail.com','*',NULL,'2023-10-30','16:45:40','SYSTEM','2023-10-30','01:46:19','master','UM001'),
 	
